@@ -1,4 +1,4 @@
-Esse é repositório é referente a minha primeira aula do curso de javascript + node.js :) 
+#Esse é repositório é referente a minha primeira aula do curso de javascript + node.js :) 
 
 São exemplos simples, mas de extrema importância para se entender as peculiaridades da linguagem de programação JAVASCRIPT. 
 
